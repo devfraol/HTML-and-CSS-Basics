@@ -1,4 +1,4 @@
-# HTML-and-CSS-Basics
+# HTML-and-CSS-Basic
 
 HTML and CSS form the foundation of modern web design, allowing you to create visually appealing & functional web pages.
 
