@@ -53,7 +53,7 @@ The following wireframe was created using [excalidraw.com](https://excalidraw.co
 
 Let's recall the problem statement and create a wireframe:
 
-> **Problem Statement**: Create a web page that showcases job listings for Jovian, including the following:
+> **Excercies**: Create a web page that showcases Cource listing for Exceed, including the following:
 > 
 > - A navbar at the top showing the Exceed logo
 > - A header section displaying a picture and some relevant information
